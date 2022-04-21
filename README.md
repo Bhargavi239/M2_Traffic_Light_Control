@@ -7,3 +7,5 @@
 [![Code Quality - Cppcheck](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/c-cpp.yml)
 
 [![Build_CI - Linux](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/linux.yml)
+
+[![Bulid CI - windows](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/windows.yml)
