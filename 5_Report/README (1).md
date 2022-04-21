@@ -45,3 +45,17 @@ The traffic signal lights system is enhanced to generate traffic-light signals b
 # How:
 The whole system is controlled by Atmega328 & atmega8 microcontroller. The designed system is implemented, tested to ensure its performance and other design factors.
 
+### High level requirements:
+| ID | Description | Status |
+| --- | ------ | --- |
+| HLR1 | When the 3 sides of road are closed, the Green LED glows in fourth side indicating the vehicle is to be moved. | Implemented |
+| HLR2 | Next the yellow led glows in one side,then the vehicle is ready to move. | Implemented |
+| HLR3 | The red LED glows in other roads,then the vehicle is stop in that side. | Implemented |
+
+
+### Low Level Requirements:
+| ID | Description | Status |
+| --- | ------ | --- |
+| LLR1 | The input is visualized using colour of LED glow. | Implemented |
+| LLR2 | The traffic system runs effectively on linux but it will also run equally well on other. | Implemented |
+| LLR3 | The corresponding LED glows based on the traffic density. | Implemented |
