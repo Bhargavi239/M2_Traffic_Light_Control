@@ -17,7 +17,7 @@
 | L_03 | waiting possible vehicle | PASSED | SUCCESS | Boundary |
 
 
-# Photo:
+# Output:
 
 ![off_picture](https://user-images.githubusercontent.com/101325628/164396308-cf32360f-e148-4b35-82db-120ea74b4643.JPG)
 
