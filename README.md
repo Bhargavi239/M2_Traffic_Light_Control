@@ -9,3 +9,5 @@
 [![Build_CI - Linux](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/linux.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/linux.yml)
 
 [![Bulid CI - windows](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/windows.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/windows.yml)
+
+[![Git Inspector](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Bhargavi239/M2_Traffic_Light_Control/actions/workflows/GitInspector.yml)
